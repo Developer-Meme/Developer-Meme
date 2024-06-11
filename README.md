@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Developer-Meme/Developer-Meme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-meme&label=Profile%20views&color=0e75b6&style=flat" alt="developer-meme" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-meme" alt="developer-meme" /></a> </p>
 
 - 🌱 I’m currently learning **flutter**
 
