@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 <hr /> <h3>💻What I Do?💻</h3> <hr />
 <h4 align="center">
  🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀
-</h4> <br />
+</h4>
         <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQHiTrnCOeJL8A/article-cover_image-shrink_720_1280/0/1628287501471?e=2147483647&v=beta&t=VV-s2SLRSBjhmBU3swkn3Y2x3Y_h8Qme5PqSC0GQBzQ">
 </div>
 <br/>
 <hr/>
-
+<br />
 - 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **react**
