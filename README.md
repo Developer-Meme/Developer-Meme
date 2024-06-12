@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-![Snake animation](https://github.com/Developer-Meme/Developer-Meme/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Developer-Meme/Developer-Meme/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 <hr /><h3>🔰 Soft skills</h3><hr />
