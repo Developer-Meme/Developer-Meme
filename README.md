@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <hr/>
-<br />
-- 🌱 I’m currently learning **flutter**
+
+<br />- 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **react**
 
