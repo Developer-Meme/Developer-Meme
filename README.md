@@ -37,11 +37,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **My names actually Meme but pronounced as meh-meh😄**
 <div align="left">
     <h3>📱 Connect with me 📱</h3>
-    <br />
     <a href="https://www.instagram.com/developer.meme_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Meme's Instagram link" height="30" width="40" /></a>
     <a href="https://wa.me/254705688344" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" width="80" /></a>
     <br />  
-    <br /><img src="https://profile-counter.glitch.me/Developer-Meme/count.svg?"  />
+</div>
+<div align="center">
+    <br /><img src="https://profile-counter.glitch.me/Developer-Meme/count.svg?"/>
 </div>
 <hr />
  <h3 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h3> <hr /><br />
