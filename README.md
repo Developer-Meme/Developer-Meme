@@ -61,6 +61,9 @@ Here are some ideas to get you started:
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Developer-Meme&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
+
+![snake gif](https://github.com/Developer-Meme/Developer-Meme/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
 <hr /><h3>🔰 Soft skills</h3><hr />
 ✅ Work collaboratively in a team <br />
