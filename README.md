@@ -40,3 +40,15 @@ Here are some ideas to get you started:
 </div>
  <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer-Meme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+<h3 align="left">✍️ Random Developer Quote📱</h3>
+<br/>
+<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</a>
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Email!+📧;+Text+me+on+Whatsapp+🤙;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
