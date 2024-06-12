@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Developer Meme</h1>
-<h3 align="center">Hi, I'm Developer Meme, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly applications and websites.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Developer+Meme;" />
+</h1>
+<h3 align="center">Hi, I'm Victor Max Munene Meme, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly applications and websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-meme&label=Profile%20views&color=0e75b6&style=flat" alt="developer-meme" /> </p>
 
