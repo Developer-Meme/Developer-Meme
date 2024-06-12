@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Developer+Meme;" /> <br />
 
-</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=developer-meme&label=Profile%20views&color=0e75b6&style=flat" alt="developer-meme" /> </p>
-<h3 align="center">Hi, I'm Victor Max Munene Meme, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly applications and websites.</h3>
-
+</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=developer-meme&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 <div align="center">
-     <hr /> <h3>💻What I Do?💻</h3> <hr />
+<h3>Hi, I'm Victor Max Munene Meme, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly applications and websites.</h3>
+        <img alt="Coding" width="400" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+</div>
+<div align="center">
+<hr /> <h3>💻What I Do?💻</h3> <hr />
 <h4 align="center">
  🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀
 </h4>
