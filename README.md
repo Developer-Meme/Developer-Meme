@@ -14,11 +14,18 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Developer+Meme;" />
-</h1>
+</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=developer-meme&label=Profile%20views&color=0e75b6&style=flat" alt="developer-meme" /> </p>
+
 <h3 align="center">Hi, I'm Victor Max Munene Meme, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly applications and websites.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-meme&label=Profile%20views&color=0e75b6&style=flat" alt="developer-meme" /> </p>
-
+<div align="center">
+     <h3 align="center">💻What I Do?💻</h3>
+<h4 align="center">
+ 🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀
+</h4>
+</div>
+<br/>
+<hr/>
 
 - 🌱 I’m currently learning **flutter**
 
@@ -29,8 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **My names actually Meme but pronounced as meh-meh😄**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<a href="https://wa.me/254705688344" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" width="80" /></a>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Developer-Meme/count.svg?"  />
 </div>
