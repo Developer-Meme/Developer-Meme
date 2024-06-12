@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <hr />
 <div align="center">
 <h2>😂 Random Dev Meme 😂</h2>
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height: 400px; width: 250px;"/>
 </div>
 <hr>
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/> <br/>
