@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+👋;+I'm+Developer+Meme;+Welcome+To+My+Github+Account;" /> <br />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Account;" /> <br />
 
 </h1> 
 <div align="right">
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **victormax9154@gmail.com**
 
-- ⚡ Fun fact **My names actually Meme but pronounced as meh-meh😄**
+- ⚡ Fun fact **🗿My names actually Meme but pronounced as meh-meh😄**
 <div align="left">
     <h3>📱 Connect with me 📱</h3>
     <a href="https://www.instagram.com/developer.meme_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Meme's Instagram link" height="30" width="40" /></a>
@@ -69,12 +69,12 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/Developer-Meme/Developer-Meme/blob/output/github-contribution-grid-snake-dark.svg)
 <hr />
 <div align="center">
-<h2>🔝 Top Contributed Repo</h2>
+<h2>🔝 Top Contributed Repo 👨🏾‍💻</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Developer-Meme&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </div>
 <div align="center">
-<hr /><h3>🔰 Soft skills</h3><hr />
+<hr /><h3>🔰 Soft skills 🔥</h3><hr />
 ✅ Work collaboratively in a team <br />
 ✅ Problem solving skills <br />
 ✅ Good communication skills <br />
@@ -89,12 +89,12 @@ Here are some ideas to get you started:
 </div> <br/> 
 <hr />
 <div align="center">
-<h2>😂 Random Dev Meme 😂</h2>
+<h2>👺 Random Coding Memes 😂</h2>
 <img src='https://memer-new.vercel.app/' style="height: 400px; width: 250px;"/>
 </div>
 <hr>
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/> <br/>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Email!+📧;+Text+me+on+Whatsapp+🤙;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙏🏾;+Shoot+me+a+message+on+Email!+✉✉️;+Text+me+on+Whatsapp+💬;I'm+always+down+to+collab+😄">
 </h3>
 <hr />
