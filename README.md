@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br />- 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **front-end development**
 
 - 📫 How to reach me **victormax9154@gmail.com**
 
