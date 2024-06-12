@@ -79,10 +79,13 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Developer-Meme&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </div>
 <div align="center">
-<hr /><h3>🔰 Soft skills 🔥</h3><hr />
-✅ Work collaboratively in a team <br />
-✅ Problem solving skills <br />
-✅ Good communication skills <br />
+<hr /><h3>🔰 Soft skills ⚡and🏆 GitHub Trophies🔥</h3><hr />
+✅ Work collaboratively in a team ✅  <br />
+✅ Good communication skills ✅  <br />
+✅ Problem solving skills ✅  <br />
+<br/>
+    
+![](https://github-profile-trophy.vercel.app/?username=Developer-Meme&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 <div align="center">
@@ -100,6 +103,6 @@ Here are some ideas to get you started:
 <hr>
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/> <br/>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙏🏾;+Shoot+me+a+message+on+Email!+✉✉️;+Text+me+on+Whatsapp+💬;I'm+always+down+to+collab+😄">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙏🏾;+Shoot+me+a+message+on+Email!+✉+✉️;+Text+me+on+Whatsapp+💬;I'm+always+down+to+collab+😄">
 </h3>
 <hr />
