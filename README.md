@@ -97,9 +97,10 @@ Here are some ideas to get you started:
 <hr />
 <div align="center">
 <h2>👺 Random Coding Memes 😂</h2>
-<img src='https://memer-new.vercel.app/' style="max-height: 550px; max-width: 4000px;"/>
+<img src='https://memer-new.vercel.app/' style="max-height: 550px; max-width: 300px;"/>
 </div>
 <div align="center">
+<hr />
 <h2>🌟 Anime Section 📺</h2>
 <h4>👋 Welcome to the Anime Section! <br/> This readme section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</h4>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/180539492465307222/230135CCF5A27173BC32335744A172673B42071A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a gamer" min-width="350"
