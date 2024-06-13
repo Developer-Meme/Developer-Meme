@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <hr />
 <div align="center">
 <h2>👺 Random Coding Memes 😂</h2>
-<img src='https://memer-new.vercel.app/' style="height: 400px; width: 250px;"/>
+<img src='https://memer-new.vercel.app/' style="max-height: 550px; max-width: 4000px;"/>
 </div>
 <hr>
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/> <br/>
