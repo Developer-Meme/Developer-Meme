@@ -94,15 +94,20 @@ Here are some ideas to get you started:
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </a>
 </div> <br/> 
+<!--
 <hr />
 <div align="center">
 <h2>👺 Random Coding Memes 😂</h2>
 <img src='https://memer-new.vercel.app/' style="max-height: 550px; max-width: 300px;"/>
 </div>
 <div align="center">
+-->
+<div align="center">
 <hr />
 <h2>🌟 Anime Section 📺</h2>
 <h4>👋 Welcome to the Anime Section! <br/> This readme section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</h4>
+</div>
+<div align="center">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/180539492465307222/230135CCF5A27173BC32335744A172673B42071A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a gamer" width="500" height="250"/><br/>
 <br/>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/870740868151310549/8052C6712B51C98AA4213CB14E1D1E669AF3F29A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="saitama's punch" width="400" height="250"/>
@@ -115,10 +120,6 @@ Here are some ideas to get you started:
 <img src="https://steamuserimages-a.akamaihd.net/ugc/97233690477305733/6C9AF11795329CD928B1144A81DC7B9C5EB02893/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="the strawhats in shock" width="400" height="250"/>
 <br/><br/>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a girl typing fast" width="500" height="250"/>
-
-
-
-
 </div>
 <br/> <hr />
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
