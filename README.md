@@ -23,26 +23,30 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 <h3>Hi, I'm Victor Max Munene Meme from Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile applications and websites.</h3>
-        <img alt="Coding" width="400" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<img alt="Coding" width="400" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 </div>
 <div align="center">
 <hr /> <h2>💻What I Do?💻</h2>
 <h4 align="center">
- 🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀
-</h4>
-        <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQHiTrnCOeJL8A/article-cover_image-shrink_720_1280/0/1628287501471?e=2147483647&v=beta&t=VV-s2SLRSBjhmBU3swkn3Y2x3Y_h8Qme5PqSC0GQBzQ">
+ 🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀</h4><hr />
 </div>
+<div align="center">
+<img alt="Coding" style={{display: flex}} width="400" height="250"src="https://media.licdn.com/dms/image/C5612AQHiTrnCOeJL8A/article-cover_image-shrink_720_1280/0/1628287501471?e=2147483647&v=beta&t=VV-s2SLRSBjhmBU3swkn3Y2x3Y_h8Qme5PqSC0GQBzQ">
 <br/>
-<hr/>
+<div align="left">
 
-<br />- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **dart and flutter**
+
+- 👯 I’m looking to collaborate on **creating web design and developing them**
 
 - 💬 Ask me about **front-end development**
 
 - 📫 How to reach me **victormax9154@gmail.com**
 
 - ⚡ Fun fact **🗿My names actually Meme but pronounced as meh-meh😄**
-<div align="left">
+</div>
+</div>
+<div align="center">
     <h2>📱 Connect with me 📱</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/Rqa3P2RH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer.meme_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-meme-2bba5b2b0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Developer_Meme_)
