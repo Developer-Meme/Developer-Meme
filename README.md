@@ -31,22 +31,25 @@ Here are some ideas to get you started:
  🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀</h4><hr />
 </div>
 <div align="center">
-<img alt="Coder GIF" height=300 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img alt="Coding" height=300 width=400 src="https://media.licdn.com/dms/image/C5612AQHiTrnCOeJL8A/article-cover_image-shrink_720_1280/0/1628287501471?e=2147483647&v=beta&t=VV-s2SLRSBjhmBU3swkn3Y2x3Y_h8Qme5PqSC0GQBzQ">
 <br/>
-<div align="left">
+<br/>
 
-- 🌱 I’m currently learning **dart and flutter**
+👨🏾‍💻 I’m looking to collaborate on **creating web design and developing them** 👨🏾‍💻
 
-- 👯 I’m looking to collaborate on **creating web design and developing them**
+🗿 Fun fact **My names actually Meme but pronounced as meh-meh** 🤣
 
-- 💬 Ask me about **front-end development**
+📫 How to reach me **victormax9154@gmail.com** ✉️
 
-- 📫 How to reach me **victormax9154@gmail.com**
+🌱 I’m currently learning **dart and flutter** 👨🏾‍🎓
 
-- ⚡ Fun fact **🗿My names actually Meme but pronounced as meh-meh😄**
+💬 Ask me about **front-end development** 💬
+
+
+
 </div>
-</div>
+<hr />
 <div align="center">
     <h2>📱 Connect with me 📱</h2>
 
