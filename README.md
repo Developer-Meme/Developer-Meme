@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         <img alt="Coding" width="400" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 </div>
 <div align="center">
-<hr /> <h3>💻What I Do?💻</h3> <hr />
+<hr /> <h2>💻What I Do?💻</h2>
 <h4 align="center">
  🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀
 </h4>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **🗿My names actually Meme but pronounced as meh-meh😄**
 <div align="left">
-    <h3>📱 Connect with me 📱</h3>
+    <h2>📱 Connect with me 📱</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/Rqa3P2RH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer.meme_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-meme-2bba5b2b0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Developer_Meme_)
     <br />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <br /><img src="https://profile-counter.glitch.me/Developer-Meme/count.svg?"/>
 </div>
 <hr />
- <h3 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h3> <hr /><br />
+ <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2> <br />
 <div align="center">
     
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Developer-Meme&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </div>
 <div align="center">
-<hr /><h3>🔰 Soft skills ⚡and🏆 GitHub Trophies🔥</h3><hr />
+<hr /><h2>🔰 Soft skills ⚡and🏆 GitHub Trophies🔥</h2>
 ✅ Work collaboratively in a team ✅  <br />
 ✅ Good communication skills ✅  <br />
 ✅ Problem solving skills ✅  <br />
@@ -87,9 +87,8 @@ Here are some ideas to get you started:
     
 ![](https://github-profile-trophy.vercel.app/?username=Developer-Meme&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
-
 <div align="center">
-<hr /><h3>✍️ Random Developer Quote📱</h3> <hr />
+<hr /><h2>✍️ Random Developer Quote📱</h2>
 <br/>
 <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -100,8 +99,15 @@ Here are some ideas to get you started:
 <h2>👺 Random Coding Memes 😂</h2>
 <img src='https://memer-new.vercel.app/' style="max-height: 550px; max-width: 4000px;"/>
 </div>
-<hr>
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/> <br/>
+<div align="center">
+<h2>🌟 Anime Section 📺</h2>
+<h4>👋 Welcome to the Anime Section! <br/> This readme section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</h4>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/925925099622241332/62BE9B35F8A39CE4BA16630C7485C460331F2715/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="luffy in gear"/>
+<img src="https://media.giphy.com/media/Uk2SWbNXWDnVe/giphy.gif" alt="another luffy's gif"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/305487666998507433/80C9A0004D2EED076F7B648DC99AB08DE1E47832/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)"/>
+</div>
+<br/> <hr />
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙏🏾;+Shoot+me+a+message+on+Email!+✉+✉️;+Text+me+on+Whatsapp+💬;I'm+always+down+to+collab+😄">
 </h3>
