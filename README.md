@@ -135,3 +135,4 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙏🏾;+Shoot+me+a+message+on+Email!+✉️;+Text+me+on+Whatsapp+💬;I'm+always+down+to+collab+😄">
 </h3>
 <hr />
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
