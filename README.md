@@ -137,9 +137,9 @@ Here are some ideas to get you started:
 </div>
 <br/> <hr />
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<br />
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙏🏾;+Shoot+me+a+message+on+Email!+✉️;+Text+me+on+Whatsapp+💬;I'm+always+down+to+collab+😄">
 </h3>
-<hr />
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=footer"/>
