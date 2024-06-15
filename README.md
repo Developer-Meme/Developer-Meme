@@ -58,8 +58,10 @@ Here are some ideas to get you started:
     <a href="https://wa.me/254705688344" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" width="80" /></a>
     <br />  
 </div>
+<br />
 <div align="center">
-    <br /><img src="https://profile-counter.glitch.me/Developer-Meme/count.svg?"/>
+    <p>🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃</p>
+    <img src="https://profile-counter.glitch.me/Developer-Meme/count.svg?"/>
 </div>
 <hr />
  <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2> <br />
