@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Account;" /> <br />
 </h1> 
+
 <div align="right">
 
 [![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6)](https://visitcount.itsvg.in)
-
 </div>
+
+<!-- Animated Gif Here -->
+<p align="center">
+  <img src="luffy.gif" align="center" width="90%" />
+</p>
+
 <div align="center">
 <h3>Hi, I'm Victor Max Munene Meme from Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile applications and websites.</h3>
 <img alt="Coding" width="400" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
