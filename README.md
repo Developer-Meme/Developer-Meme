@@ -115,14 +115,13 @@ Here are some ideas to get you started:
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </a>
 </div> <br/> 
-<!--
-<hr />
 <div align="center">
 <h2>👺 Random Coding Memes 😂</h2>
-<img src='https://memer-new.vercel.app/' style="max-height: 550px; max-width: 300px;"/>
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 </div>
-<div align="center">
--->
 <div align="center">
 <hr />
 <h2>🌟 Anime Section 📺</h2>
