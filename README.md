@@ -63,6 +63,9 @@ Here are some ideas to get you started:
 <div align="center">
     <p>🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃</p>
     <img src="https://profile-counter.glitch.me/Developer-Meme/count.svg?"/>
+    
+![Snake animation](https://github.com/Developer-Meme/Developer-Meme/blob/output/github-contribution-grid-snake-dark.svg)
+<br />
 </div>
 <hr />
  <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages | Frameworks | Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2> <br />
@@ -100,7 +103,11 @@ Here are some ideas to get you started:
 <br/>
     
 ![](https://github-profile-trophy.vercel.app/?username=Developer-Meme&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
+
+<!-- Vector Tool Gif -->
+<p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!-- Vector Tool Gif Ends --></div>
 <div align="center">
 <hr /><h2>✍️ Random Developer Quote📱</h2>
 <br/>
