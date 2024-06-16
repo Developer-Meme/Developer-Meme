@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=header"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Account;" /> <br />
-
 </h1> 
 <div align="right">
 
@@ -114,13 +113,13 @@ Here are some ideas to get you started:
 <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </a>
-</div> <br/> 
-<div align="center">
-<h2>👺 Random Coding Memes 😂</h2>
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div> 
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+<div align="center">
+<h2>👺 Random Coding Memes 😂</h2>
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 <div align="center">
 <hr />
