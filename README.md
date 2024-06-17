@@ -106,6 +106,7 @@
 <div align="center">
 <h2>👺 Random Coding Memes 😂</h2>
 <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+<br />
 </div>
 <div align="center">
 <hr />
