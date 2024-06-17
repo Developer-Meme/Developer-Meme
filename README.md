@@ -8,14 +8,14 @@
 [![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6&width=20%)](https://visitcount.itsvg.in)
 </div>
 
-<div align="center">
-<h3>Hi, I'm Victor Max Munene Meme from Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile applications and websites.</h3>
-<img alt="Coding" width="96%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<div width="50%">
+<h3>Hi, I'm Victor Max Munene Meme from Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile application and websites.</h3>
+<img align="center" alt="Coding" width="96%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 </div>
-<div align="center">
-<hr /> <h2>💻What I Do?💻</h2>
-<h4 align="center">
- 🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀</h4><hr />
+<div>
+<hr /> <h2 align="center">💻What I Do?💻</h2>
+<h3 width="50%">
+ 🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀</h3><hr />
 </div>
 <div align="center">
 <img alt="Coder GIF" width=48% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -108,10 +108,10 @@
 <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 <br />
 </div>
-<div align="center">
+<div>
 <hr />
-<h2>🌟 Anime Section 📺</h2>
-<h4>👋 Welcome to the Anime Section! <br/> This readme section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</h4>
+<h2 align="center">🌟 Anime Section 📺</h2>
+<h3 width="50%">👋 Welcome to the Anime Section! <br/> This readme section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</h3>
 </div>
 <div align="center">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/180539492465307222/230135CCF5A27173BC32335744A172673B42071A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a gamer girl" width="100%"/><br/>
