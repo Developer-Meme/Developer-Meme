@@ -129,7 +129,7 @@
 <hr />
 <h2 align="center">🌟 Anime Section 📺</h2>
 <h3 width="50%" align="center">👋 Welcome to the Anime Section!</h3>
-<p>This readme section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</p> 
+<p>This section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</p> 
 </div>
 <div align="center">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/180539492465307222/230135CCF5A27173BC32335744A172673B42071A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a gamer girl" width="60%"/><br/>
