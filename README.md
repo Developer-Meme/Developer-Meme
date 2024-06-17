@@ -25,7 +25,7 @@
 
 👨🏾‍💻 I’m looking to collaborate on **creating web design and developing them** 👨🏾‍💻
 
-🗿 Fun fact **My names actually Meme but pronounced as meh-meh** 🤣
+🗿 Fun fact **My names actually Meme but pronounced as meh-meh** 👺
 
 📫 How to reach me **victormax9154@gmail.com** ✉️
 
