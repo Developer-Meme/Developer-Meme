@@ -8,9 +8,9 @@
 [![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6&width=20%)](https://visitcount.itsvg.in)
 </div>
 
-<div>
 <h3 width="50%">Hi, I'm Victor Max Munene Meme from Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile application and websites.</h3>
-<img align="center" alt="Coding" width="96%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<div align="center">
+<img alt="Coding" width="50%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"align="center">
 </div>
 <div>
 <hr /> <h2 align="center">💻What I Do?💻</h2>
@@ -46,11 +46,12 @@
 <div align="center">
     <p>🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃</p>
     <img src="https://profile-counter.glitch.me/Developer-Meme/count.svg?"/>
-    
+</div> 
+<div align="center">
 <!-- Animated Gif Here -->
-<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1825659135652713063/D200E2DDF3A1957D51FB276ECAC03626522F813A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="center" width="96%" />
-<br />
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1825659135652713063/D200E2DDF3A1957D51FB276ECAC03626522F813A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="center" width="70%" alt="gear 5 luffy"/>
 </div>
+<br />
 <hr />
  <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages | Frameworks | Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2> <br />
 <div align="center">
@@ -69,8 +70,10 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Developer-Meme&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
+<div align="center">
 
 ![Snake animation](https://github.com/Developer-Meme/Developer-Meme/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 <hr />
 <div align="center">
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"width="25"/> Top Contributed Repo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"width="25" /> </h2>
@@ -88,7 +91,7 @@
 
 <!-- Vector Tool Gif -->
 <p>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="58%" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35%" height="35%" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <!-- Vector Tool Gif Ends --></div>
 <div align="center">
 <hr />
@@ -103,26 +106,27 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <div align="center">
 <h2>👺 Random Coding Memes 😂</h2>
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-<br />
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" width="390"/>
 </div>
+<br/>
 <div>
 <hr />
 <h2 align="center">🌟 Anime Section 📺</h2>
-<h3 width="50%">👋 Welcome to the Anime Section! <br/> This readme section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</h3>
+<h3 width="50%" align="center">👋 Welcome to the Anime Section!</h3>
+<h4 width="50%"><span >This readme section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</h4> 
 </div>
 <div align="center">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/180539492465307222/230135CCF5A27173BC32335744A172673B42071A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a gamer girl" width="95%"/><br/>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/870740868151310549/8052C6712B51C98AA4213CB14E1D1E669AF3F29A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="saitama's punch" width="45%"/>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/925925099622241332/62BE9B35F8A39CE4BA16630C7485C460331F2715/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="luffy in gear" width="45%" />
-<img src="https://steamuserimages-a.akamaihd.net/ugc/396677174862961564/8025B262395AEFEF82BB60E7DD50B984915B012A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="one punch man" width="45%"/>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/305487666998507433/80C9A0004D2EED076F7B648DC99AB08DE1E47832/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" alt="luffy" width="45%"/>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/90469323224716659/E882F15E018CD21860620D41C484FE401F1CCE44/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Genos gif sparring with saitama" width="45%"/>
-<img src="https://media.giphy.com/media/Uk2SWbNXWDnVe/giphy.gif" alt="another luffy's" width="45%"/>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/862866465560543109/C9B40CB20A190FCCB6CD28383C9A9650C89789F2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="saitama running" width="45%"/>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/97233690477305733/6C9AF11795329CD928B1144A81DC7B9C5EB02893/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="the strawhats in shock" width="45%"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/180539492465307222/230135CCF5A27173BC32335744A172673B42071A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a gamer girl" width="50%"/><br/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/396677174862961564/8025B262395AEFEF82BB60E7DD50B984915B012A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="one punch man" width="45%" height="250"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/925925099622241332/62BE9B35F8A39CE4BA16630C7485C460331F2715/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="luffy in gear" width="45%" height="250"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/90469323224716659/E882F15E018CD21860620D41C484FE401F1CCE44/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Genos gif sparring with saitama" width="45%" height="250"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/305487666998507433/80C9A0004D2EED076F7B648DC99AB08DE1E47832/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" alt="luffy" width="45%" height="250"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/870740868151310549/8052C6712B51C98AA4213CB14E1D1E669AF3F29A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="saitama's punch" width="45%" height="250"/>
+<img src="https://media.giphy.com/media/Uk2SWbNXWDnVe/giphy.gif" alt="another luffy's" width="45%" height="250"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/862866465560543109/C9B40CB20A190FCCB6CD28383C9A9650C89789F2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="saitama running" width="45%" height="250"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/97233690477305733/6C9AF11795329CD928B1144A81DC7B9C5EB02893/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="the strawhats in shock" width="45%" height="250"/>
 <br/>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a girl typing fast" width="95%"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a girl typing fast" width="50%"/>
 </div>
 <br/> <hr />
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%"/>
