@@ -10,7 +10,7 @@
 
 <div align="center">
 <h3>Hi, I'm Victor Max Munene Meme from Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile applications and websites.</h3>
-<img alt="Coding" width="90%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<img alt="Coding" width="96%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 </div>
 <div align="center">
 <hr /> <h2>💻What I Do?💻</h2>
@@ -51,7 +51,7 @@
     <img src="https://profile-counter.glitch.me/Developer-Meme/count.svg?"/>
     
 <!-- Animated Gif Here -->
-<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1825659135652713063/D200E2DDF3A1957D51FB276ECAC03626522F813A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="center" width="90%" />
+<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1825659135652713063/D200E2DDF3A1957D51FB276ECAC03626522F813A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="center" width="96%" />
 <br />
 </div>
 <hr />
@@ -93,11 +93,10 @@
 
 <!-- Vector Tool Gif -->
 <p>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="58%" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <!-- Vector Tool Gif Ends --></div>
 <div align="center">
-<hr /><h2>✍️ Random Developer Quote📱</h2>
-<br/>
+<hr /><h2>✍️ Random Developer Quote📱</h2> <br />
 <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </a>
