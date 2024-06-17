@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=header"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Account;" /> <br />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=50%&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Profile;+Buckle+up+!" /> <br />
 </h1> 
 
 <div align="right">
 
-[![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6&width=20%)](https://visitcount.itsvg.in)
 </div>
 
 <div align="center">
@@ -98,7 +98,7 @@
 <div align="center">
 <hr /><h2>✍️ Random Developer Quote📱</h2> <br />
 <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
-    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=90%" alt="Random Dev Quote" />
 </a>
 </div> 
 
