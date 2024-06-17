@@ -8,20 +8,44 @@
 [![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6&width=20%)](https://visitcount.itsvg.in)
 </div>
 
-<h3 width="50%">Hi, I'm Victor Max Munene Meme from Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile application and websites.</h3>
+<h3 text-width="25%">Hi, I'm Victor Max Munene Meme from Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile application and websites.</h3>
 <div align="center">
 <img alt="Coding" width="50%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"align="center">
 </div>
 <div>
 <hr /> <h2 align="center">💻What I Do?💻</h2>
-<h3 width="48%">
+<h3 text-width="20%">
  🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀</h3><hr />
 </div>
 <div align="center">
 <img alt="Coder GIF" width=48% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img alt="Coding" width=48% src="https://media.licdn.com/dms/image/C5612AQHiTrnCOeJL8A/article-cover_image-shrink_720_1280/0/1628287501471?e=2147483647&v=beta&t=VV-s2SLRSBjhmBU3swkn3Y2x3Y_h8Qme5PqSC0GQBzQ">
+</div>
+<hr />
+ <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages | Frameworks | Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2> <br />
+<div align="center">
+    
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+</div>
 <br/>
+<div align="center">
+<hr/><h2>🔰 Soft skills ⚡and🏆 GitHub Trophies🔥</h2>
+<b>
+✅ Work collaboratively in a team ✅  <br />
+✅ Good communication skills ✅  <br />
+✅ Problem solving skills ✅  <br />
+</b>
 <br/>
+    
+![](https://github-profile-trophy.vercel.app/?username=Developer-Meme&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<!-- Vector Tool Gif -->
+<p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35%" height="35%" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!-- Vector Tool Gif Ends --></div>
+<div align="center">
+<hr />
+<div align="center">
 
 👨🏾‍💻 I’m looking to collaborate on **creating web design and developing them** 👨🏾‍💻
 
@@ -32,6 +56,7 @@
 🌱 I’m currently learning **dart and flutter** 👨🏾‍🎓
 
 💬 Ask me about **front-end development** 💬
+
 </div>
 <hr />
 <div align="center">
@@ -50,13 +75,6 @@
 <div align="center">
 <!-- Animated Gif Here -->
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1825659135652713063/D200E2DDF3A1957D51FB276ECAC03626522F813A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="center" width="70%" alt="gear 5 luffy"/>
-</div>
-<br />
-<hr />
- <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages | Frameworks | Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2> <br />
-<div align="center">
-    
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 </div>
 <br />
 <hr /> <h2 align="center">
@@ -80,21 +98,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Developer-Meme&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </div>
-<div align="center">
-<hr /><h2>🔰 Soft skills ⚡and🏆 GitHub Trophies🔥</h2>
-✅ Work collaboratively in a team ✅  <br />
-✅ Good communication skills ✅  <br />
-✅ Problem solving skills ✅  <br />
-<br/>
-    
-![](https://github-profile-trophy.vercel.app/?username=Developer-Meme&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Vector Tool Gif -->
-<p>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35%" height="35%" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<!-- Vector Tool Gif Ends --></div>
-<div align="center">
-<hr />
 <h2>✍️Random Developer Quote📱</h2> <br />
 <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
