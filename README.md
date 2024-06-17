@@ -3,13 +3,12 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=5D3FD3&width=550&height=50%&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Profile;+Buckle+up+!" />
 </h1> 
 <div display="flex">
-<div align="right">
-
-[![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6&width=20%)](https://visitcount.itsvg.in)
-</div>
 
 <div align="center">
-<img src="https://github.com/Developer-Meme/Developer-Meme/blob/main/Luffy.gif" width="60%" height="30%"><hr/>
+<img src="https://github.com/Developer-Meme/Developer-Meme/blob/main/Luffy.gif" width="60%" height="30%"/><div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6&width=20%)](https://visitcount.itsvg.in)
+</div><hr/>
 </div>
 </div>
 
