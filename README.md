@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=header"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=50%&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Profile;+Buckle+up+!" /> <br />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=5D3FD3&width=550&height=50%&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Profile;+Buckle+up+!" /> <br />
 </h1> 
 
 <div align="right">
@@ -94,7 +94,8 @@
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="58%" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <!-- Vector Tool Gif Ends --></div>
 <div align="center">
-<hr /><h2>✍️ Random Developer Quote📱</h2> <br />
+<hr />
+<h2>✍️Random Developer Quote📱</h2> <br />
 <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </a>
@@ -133,7 +134,7 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/victormax9153@gmail.com)
 </div>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙏🏾;+Shoot+me+a+message+on+Email!+✉️;+Text+me+on+Whatsapp+💬;I'm+always+down+to+collab+😄">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=5D3FD3&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙏🏾;+Shoot+me+a+message+on+Email!+✉️;+Text+me+on+Whatsapp+💬;I'm+always+down+to+collab+😄">
 </h3>
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=footer"/>
