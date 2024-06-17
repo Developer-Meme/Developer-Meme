@@ -98,7 +98,7 @@
 <div align="center">
 <hr /><h2>✍️ Random Developer Quote📱</h2> <br />
 <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
-    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=90%" alt="Random Dev Quote" />
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </a>
 </div> 
 
