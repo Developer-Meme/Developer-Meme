@@ -64,9 +64,7 @@
 <hr /> <h2 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
-
 <br>
-
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Developer-Meme&theme=dark&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Developer-Meme&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -78,7 +76,7 @@
 ![Snake animation](https://github.com/Developer-Meme/Developer-Meme/blob/output/github-contribution-grid-snake-dark.svg)
 <hr />
 <div align="center">
-<h2>🔝 Top Contributed Repo 👨🏾‍💻</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"width="25"/> Top Contributed Repo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"width="25" /> </h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Developer-Meme&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </div>
