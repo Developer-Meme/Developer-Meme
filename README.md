@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6&width=20%)](https://visitcount.itsvg.in)
 </div>
 
-<p align="center">Hi, I'm Victor Max Munene Meme from Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile application and websites.</p>
+<p align="center">Hi, I'm Victor Max Munene Meme from 🇰🇪Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile application and websites.</p>
 <div align="center">
 <img alt="Coding" width="53%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"align="center">
 </div>
