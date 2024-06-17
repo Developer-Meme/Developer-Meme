@@ -1,14 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=header"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=5D3FD3&width=550&height=50%&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Profile;+Buckle+up+!" /> <br />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=5D3FD3&width=550&height=50%&duration=4000&lines=Hey+There+👋;+🌚+I'm+Developer+Meme+🌝;+Welcome+To+My+Github+Profile;+Buckle+up+!" />
 </h1> 
-
+<div display="flex">
 <div align="right">
 
 [![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6&width=20%)](https://visitcount.itsvg.in)
 </div>
 
-<p align="center">Hi, I'm Victor Max Munene Meme from 🇰🇪Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile application and websites.</p>
+<div align="center">
+<img src="https://github.com/Developer-Meme/Developer-Meme/blob/main/Luffy.gif" width="60%" height="30%"><hr/>
+</div>
+</div>
+
+
+<p align="center">I'm Victor Max Munene Meme from 🇰🇪Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile application and websites.</p>
 <div align="center">
 <img alt="Coding" width="53%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"align="center">
 </div>
