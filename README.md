@@ -41,6 +41,9 @@
 </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
 </div>
 <br/>
 <div align="center">
