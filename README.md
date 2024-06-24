@@ -7,20 +7,22 @@
  [![](https://visitcount.itsvg.in/api?id=Developer-Meme&icon=4&color=6&width=20%)](https://visitcount.itsvg.in) <br/>
 <img src="https://github.com/Developer-Meme/Developer-Meme/blob/main/Luffy.gif" width="60%" height="30%"/>
 </div>
-<hr/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">I'm Victor Max Munene Meme from 🇰🇪Kenya🇰🇪, a Flutter mobile app and frontend web developer. I specialize in building responsive, user-friendly mobile application and websites.</p>
 <div align="center">
 <img alt="Coding" width="53%" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"align="center">
 </div>
 <div>
-<hr /> <h2 align="center">💻What I Do?💻</h2>
-<p>🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀</p><hr />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<h2 align="center">💻What I Do?💻</h2>
+<p>🚀 As a Front-End Developer, I create user-friendly web applications using HTML, CSS, and JavaScript. With React, I build modern, scalable web apps, and I use Flutter to develop cross-platform mobile applications for both iOS and Android. My focus is on delivering responsive, interactive, and visually appealing user experiences.🚀</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <div align="center">
 <img alt="Coder GIF" width=48% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img alt="Coding" width=48% src="https://media.licdn.com/dms/image/C5612AQHiTrnCOeJL8A/article-cover_image-shrink_720_1280/0/1628287501471?e=2147483647&v=beta&t=VV-s2SLRSBjhmBU3swkn3Y2x3Y_h8Qme5PqSC0GQBzQ">
 </div>
-<hr />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages | Frameworks | Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2> <br />
 <div align="center"> 
  
@@ -47,7 +49,7 @@
 </div>
 <br/>
 <div align="center">
-<hr/><h2>🔰 Soft skills ⚡and🏆 GitHub Trophies🔥</h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><h2>🔰 Soft skills ⚡and🏆 GitHub Trophies🔥</h2>
 <b>
 ✅ Work collaboratively in a team ✅  <br />
 ✅ Good communication skills ✅  <br />
@@ -62,7 +64,7 @@
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35%" height="35%" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <!-- Vector Tool Gif Ends --></div>
 <div align="center">
-<hr />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
 
 👨🏾‍💻 I’m looking to collaborate on **creating web design and developing them** 👨🏾‍💻
@@ -76,7 +78,7 @@
 💬 Ask me about **front-end development** 💬
 
 </div>
-<hr />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
 <h2>📱 Connect with me 📱</h2>
 
@@ -95,7 +97,7 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1825659135652713063/D200E2DDF3A1957D51FB276ECAC03626522F813A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="center" width="70%" alt="gear 5 luffy"/>
 </div>
 <br />
-<hr /> <h2 align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <h2 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 <br>
@@ -110,7 +112,7 @@
 
 ![Snake animation](https://github.com/Developer-Meme/Developer-Meme/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
-<hr />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"width="25"/> Top Contributed Repo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"width="25" /> </h2>
 
@@ -131,7 +133,7 @@
 </div>
 <br/>
 <div>
-<hr />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="center">🌟 Anime Section 📺</h2>
 <h3 width="50%" align="center">👋 Welcome to the Anime Section!</h3>
 <p>This section is dedicated to my love for anime. As a proud weeb, I enjoy creating projects inspired by my favorite series and sharing tools that every anime fan will appreciate.</p> 
@@ -149,7 +151,8 @@
 <br/>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="a girl typing fast" width="60%"/>
 </div>
-<br/> <hr />
+<br/> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%"/>
 <br />
 <div align="center">
