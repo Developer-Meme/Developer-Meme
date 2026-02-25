@@ -3,6 +3,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Victor+Meme!;" />
 </h1>
+<p align="left"> <img
+    src="https://komarev.com/ghpvc/?username=Developer-Meme&label=Profile%20views&color=0e75b6&style=flat"
+    alt="alvin-kiveu" /> </p>
 <h3 align="center" >A Developer from Kenya</h3>
 <br/>
 <div align="center">
@@ -43,33 +46,34 @@ My goal is to combine strong technical foundations with beautiful UI design to c
  <h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 <p align="center"> 
     <img src="https://skillicons.dev/icons?i=dart,html,css,git,javascript,java,vscode&theme=dark" />  <br/>
-     <img  src="https://skillicons.dev/icons?i=react,tailwindcss,flutter,github,nextjs,linux&theme=dark" />
-    
+     <img  src="https://skillicons.dev/icons?i=react,tailwindcss,flutter,github,nextjs,linux&theme=dark" />   
 </p>
 
- <br/>
+<br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Developer-Meme&theme=dark&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Developer-Meme&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Developer-Meme&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align=center> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-Meme&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Developer-Meme&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Developer-Meme&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Developer-Meme&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Developer-Meme&theme=algolia">
 </div>
 
 <br/>
 <hr>
-
-### 🔰 Soft skills
+<div align=center> 
+🔰 Soft skills
 
 ✅ Work collaboratively in a team
 
 ✅ Problem solving skills
 
 ✅ Good communication skills
-
+</div>
+<div align=center> 
 <hr>
 
 ### ✍️ Random Deveveloper Quote
@@ -77,7 +81,7 @@ My goal is to combine strong technical foundations with beautiful UI design to c
 <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </a>
-
+</div>
 <br/><br/>
 
 <h3 align="center">
@@ -85,3 +89,4 @@ My goal is to combine strong technical foundations with beautiful UI design to c
 </h3>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&width=2000&section=footer"/>
