@@ -45,7 +45,7 @@ My goal is to combine strong technical foundations with beautiful UI design to c
 <br/>
  <h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=dart,html,css,git,javascript,java,vscode&theme=dark" />  <br/>
+    <img src="https://skillicons.dev/icons?i=python,dart,html,css,git,javascript,java,vscode&theme=dark" />  <br/>
      <img  src="https://skillicons.dev/icons?i=react,tailwindcss,flutter,github,nextjs,linux&theme=dark" />   
 </p>
 
