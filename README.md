@@ -30,7 +30,7 @@ My goal is to combine strong technical foundations with beautiful UI design to c
 
 - 💬 Ask me about **anything ,,,but no personal..lol😜😜**
 
-- 📫 How to reach me **victormunene2001@gmail.com**
+- 📫 How to reach me **victor.meme254@gmail.com**
 
 <h3 align="left">📱 Connect with me 📱</h3>
 <p align="left">
