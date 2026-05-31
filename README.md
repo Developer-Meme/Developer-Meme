@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/developer-meme-2bba5b2b0/">
+  <a href="https://www.linkedin.com/in/developer-meme/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -41,6 +41,10 @@
   &nbsp;
   <a href="mailto:victor.meme254@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://paypal.me/victormax9154">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
 </div>
 
@@ -118,9 +122,10 @@
 <td width="33%" valign="top">
 
 ### `🎬` Video Editing
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
 ![DaVinci](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
 
-`Motion Graphics` `Reels` `Cinematic Editing` `Color Grading`
+`Motion Graphics` `Reels` `Cinematic Editing` `Color Grading` `Transitions`
 
 </td>
 <td width="33%" valign="top">
@@ -128,6 +133,7 @@
 ### `🔧` IT Support
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 `Hardware` `Networking` `HMIS` `System Maintenance`
 
@@ -151,7 +157,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=java,figma,ps,git,github,vscode&theme=dark&perline=6" />
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,androidstudio&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,androidstudio,apple&theme=dark&perline=6" />
 
 </div>
 
@@ -171,6 +177,20 @@
   <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Developer-Meme&theme=2077"/>
   &nbsp;
   <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Developer-Meme&theme=2077"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+**📅 2026 Contribution Calendar**
+
+| Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ⬛ | 🟩 | 🟩 | ⬛ | 🟩 | 🟩 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
+
+*17 contributions in 2026 — building in public, one commit at a time 🚀*
+
 </div>
 
 <br/>
@@ -213,9 +233,11 @@
 
 [![Email](https://img.shields.io/badge/victor.meme254@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.meme254@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-meme-2bba5b2b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-meme/)
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254705688344)
+&nbsp;
+[![PayPal](https://img.shields.io/badge/Gift_via_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/victormax9154)
 
 </div>
 
