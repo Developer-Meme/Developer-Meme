@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/◉_Available_for_Projects-Kenya_🇰🇪-a855f7?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/◉_Available_for_Projects-Kenya-a855f7?style=for-the-badge&labelColor=0d0d1a)
 &nbsp;
 ![](https://img.shields.io/badge/BSc-Computer_Science-F5A623?style=for-the-badge&labelColor=0d0d1a)
 
@@ -61,7 +61,7 @@
 ╚██╗ ██╔╝██║╚██╔╝██║    Role   → Developer · Designer · IT Specialist
  ╚████╔╝ ██║ ╚═╝ ██║    Stack  → React · Next.js · Flutter · Node.js
   ╚═══╝  ╚═╝     ╚═╝    Design → Figma · Canva · Photoshop · DaVinci
-                         Based  → Nairobi, Kenya 🇰🇪
+                         Based  → Nairobi, Kenya
                          Mail   → victor.meme254@gmail.com
                          Open   → ✅ Collaborations & Freelance
 ```
