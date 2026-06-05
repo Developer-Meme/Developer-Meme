@@ -157,7 +157,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=java,figma,ps,git,github,vscode&theme=dark&perline=6" />
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,androidstudio,apple&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=windows,linux,apple,androidstudio,vite&theme=dark&perline=6" />
 
 </div>
 
