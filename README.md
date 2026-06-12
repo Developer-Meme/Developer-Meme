@@ -153,7 +153,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwindcss&theme=dark&perline=6" />
 <br/>
-<img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,mysql,mongodb,python&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,mysql,mongodb,python, go&theme=dark&perline=6" />
 <br/>
 <img src="https://skillicons.dev/icons?i=java,figma,ps,git,github,vscode&theme=dark&perline=6" />
 <br/>
